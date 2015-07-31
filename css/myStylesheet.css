@@ -1,0 +1,44 @@
+#eBayLogo{
+	float: left;
+	height: 20%;
+	width: 20%;
+}
+
+#imageContainer{
+	font-size: 4vw;
+	margin: auto;
+}
+
+#highlight{
+	color: red;
+	font-size: 110%;
+}
+
+#titleDisplay{
+	font-size: 350%
+}
+
+.b{
+	float: right;
+	margin: 5px;
+}
+
+.error{
+	color: red;
+	border:1px solid red;
+}
+
+#item0,#item1,#item2,#item3,#item4,#item5,#item6,#item7,#item8,#item9,#item10{
+	margin-bottom: 1%;
+}
+
+.itemTitle{
+	font-weight: bold;
+}
+
+.has-error {
+	color: #a94442 !important;
+	border-color: #a94442 !important; 
+	-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075) !important;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075) !important;
+}
